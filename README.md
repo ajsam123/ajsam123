@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning react<br><br>- 💬 Ask me about react or firebase<br><br>- ⚡ Fun fact: I'm a pharmacy student diving deep into tech, blending healthcare and coding to build meaningful solutions!</p>
+<p align="left">- 🌱 I’m currently learning Next.js<br><br>- 💬 Ask me about react or firebase<br><br>- ⚡ Fun fact: I'm a pharmacy student diving deep into tech, blending healthcare and coding to build meaningful solutions!</p>
 
 ###
 
